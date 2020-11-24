@@ -1,0 +1,15 @@
+export const Data = [
+    { orderId: '#AB234A', date: '18th November, 20', time: '2:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '1' },
+    { orderId: '#AB234B', date: '16th November, 20', time: '4:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '2' },
+    { orderId: '#AB234C', date: '17th November, 20', time: '5:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '2' },
+    { orderId: '#AB234D', date: '18th November, 20', time: '7:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '1' },
+    { orderId: '#AB234E', date: '18th November, 20', time: '4:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '1' },
+    { orderId: '#AB234F', date: '17th November, 20', time: '5:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '1' },
+    { orderId: '#AB234G', date: '18th November, 20', time: '2:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '2' },
+    { orderId: '#AB234H', date: '18th November, 20', time: '3:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '1' },
+    { orderId: '#AB234I', date: '19th November, 20', time: '1:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '2' },
+    { orderId: '#AB234J', date: '18th November, 20', time: '6:30pm', orderDiscretion: 'Summer white shirt', amount: 'Rs.500 via GoPay', customerName: 'Valmik Mirani', customerAddress: '55D, Arkadia Residence Kemang Jakarta 12960', customerNumber: '9560000264', deliveryType: '1', status: '1' }
+]
+export default {
+    Data,
+}
